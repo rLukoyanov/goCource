@@ -1,3 +1,3 @@
-module exmple.com/investment_calculator
+module exmple.com/bank
 
 go 1.23.2
